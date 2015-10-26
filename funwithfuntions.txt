@@ -1,0 +1,30 @@
+# starting a project in eclipese
+1. open eclipese
+2.select a workspace
+:File> switch workspace
+:Browse ; select the workspace that you want
+3. create your project file
+new java project ; 
+4.create new class for your project
+file>new>class
+name your project and finish
+#
+START A LOCAL REPOSITORY
+1. open the command prompt
+2. change to right files
+3. go to the folder we just made
+// cls clears the command prompt
+// use dir to see whatv is
+4. set up local repsoitory
+5. git init
+6. git add .
+7. git config user email and name
+8. git commit -m first commit plus a statement
+
+ #CONNECT YOUR LOCAL REPOS TO A GLOBAL REPOS
+1.open your web browser
+2.https://github.com/
+3. add a new repository green button
+4. name what the java project folders name is (howtodocumentaproject)
+: do not initilize with readme file
+5.follow instuctions given
